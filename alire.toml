@@ -1,0 +1,12 @@
+name = "mycrate"
+description = "asdf"
+version = "0.1.0-dev"
+
+authors = ["ME"]
+maintainers = ["ME <mosteo+alire@gmail.com>"]
+maintainers-logins = ["mosteo-testing"]
+licenses = "MIT OR Apache-2.0 WITH LLVM-exception"
+website = ""
+tags = []
+
+executables = ["mycrate"]
